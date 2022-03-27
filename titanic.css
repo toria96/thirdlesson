@@ -1,0 +1,13 @@
+* {
+margin: 0;
+}
+
+.container {
+ max-width: 1000px; 
+ width: 50%;
+ margin: 0 auto;
+
+}
+.titanic-img {
+max-width: 50%;
+}
