@@ -2,6 +2,31 @@
 margin: 0;
 }
 
+h1 {
+  font-family:Arial, Helvetica, serif;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 150%;
+}
+.data {
+  font-weight: bold ;
+}
+
+.img-descriprion {
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  
+}
+
 .container {
  max-width: 1000px; 
  width: 50%;
@@ -9,5 +34,7 @@ margin: 0;
 
 }
 .titanic-img {
-max-width: 50%;
+max-width: 80%;
+display: block;
+margin: 0 auto;
 }
